@@ -828,7 +828,7 @@ const sketch = ({ context, canvas, width, height }) => {
   const meshFive = 'soundwave';
   const meshSix = 'arrow';
   const meshSeven = 'Heart';
-  // const meshEight = 'brain';
+  // const meshEight = 'brain' d;
 
   // Create sections below the canvas
   const models = [modelOne, modelTwo, modelThree, modelFour, modelFive, modelSix];
